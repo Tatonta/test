@@ -1,3 +1,0 @@
-/home/tatonta/cpp_tutorials/build/CMakeFiles/CRINGE.dir
-/home/tatonta/cpp_tutorials/build/CMakeFiles/edit_cache.dir
-/home/tatonta/cpp_tutorials/build/CMakeFiles/rebuild_cache.dir
